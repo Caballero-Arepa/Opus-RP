@@ -25,3 +25,38 @@ NationIcons/Fanat
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/IMT 1
+  rotate: false
+  xy: 112, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/IMT 2
+  rotate: false
+  xy: 575, 351
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/IMT 3
+  rotate: false
+  xy: 683, 459
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/IMT 4
+  rotate: false
+  xy: 112, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/IMT 5
+  rotate: false
+  xy: 152, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
