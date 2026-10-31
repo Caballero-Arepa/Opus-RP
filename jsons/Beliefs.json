@@ -264,6 +264,11 @@
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>"]
     },
+    {
+        "name": "Fasting",
+        "type": "Follower",
+        "uniques": ["[10]% Food is carried over after population increases [in this city]"]
+    },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
