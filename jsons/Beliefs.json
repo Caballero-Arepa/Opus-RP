@@ -170,11 +170,12 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production] from every [Mangrove Forest]", "[+1 Happiness] from every [Swamp]"]
     },
-  {
-    "name": "Martial Rites",
+    {
+    "name": "Watchful Devotion",
     "type": "Pantheon",
     "uniques": [
-      "New [Military] units start with [5] XP [in this city]"
+      "All newly-trained [All] units [in this city] receive the [Sentry] promotion",
+      "[+1 Faith] from every [Barracks]",
     ]
   },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
@@ -263,15 +264,6 @@
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>"]
     },
-  {
-    "name": "Watchful Devotion",
-    "type": "Follower",
-    "uniques": [
-      "All newly-trained [All] units [in this city] receive the [Sentry] promotion",
-      "[+1 Faith] from every [Walls]",
-      "[+1 Faith] from [Fort] tiles [in this city]"
-    ]
-  },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
@@ -342,6 +334,13 @@
         "[Gold] cost of purchasing [All] units [-10]%",
         "[Gold] cost of purchasing [All] units [-10]% <during a Golden Age>"]
     },
+  {
+    "name": "Martial Rites",
+    "type": "Founder",
+    "uniques": [
+      "New [Military] units start with [15] XP"
+    ]
+  },
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
   
     {
