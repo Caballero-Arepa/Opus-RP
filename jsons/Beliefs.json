@@ -267,7 +267,17 @@
     {
         "name": "Fasting",
         "type": "Follower",
-        "uniques": ["[10]% Food is carried over after population increases [in this city]"]
+        "uniques": ["[10]% Food is carried over after population increases [in this city] <in cities with a [Shrine]>"]
+    },
+    {
+        "name": "Church Donations",
+        "type": "Follower",
+        "uniques": ["[-100]% maintenance cost for [Faith] buildings [in this city]"]
+    },
+    {
+        "name": "Inspirational Worship",
+        "type": "Follower",
+        "uniques": ["[+25]% Great Person generation [in this city] <in cities with at least [5] [Followers of this Religion]>"]
     },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
