@@ -96,4 +96,123 @@
 		],
 		"requiredTech": "Education"
 	},
+	//Eggy
+	{
+    "name": "Monkey Statue",
+		"uniqueTo": "Eggy",
+		"replaces": "Monument",
+    "culture": 2,
+    "cost": 40,
+    "hurryCostModifier": 40,
+    "maintenance": 1,
+    "uniques": ["Destroyed when the city is captured"]
+  },
+  {
+    "name": "Banana Barn",
+    "uniqueTo": "Eggy",
+    "replaces": "Granary",
+    "food": 2,
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+      "[+1 Food] from [Bananas] tiles [in this city]",
+      "[+1 Food] from [Wheat] tiles [in this city]"],
+    "requiredTech": "Pottery"
+  },
+  {
+    "name": "Jungle Drums",
+    "uniqueTo": "Eggy",
+    "replaces": "Workshop",
+    "maintenance": 2,
+    "production": 2,
+    "specialistSlots": {"Engineer": 1},
+    "hurryCostModifier": 25,
+    "percentStatBonus": {"production": 10},
+    "requiredTech": "Metal Casting"
+  },
+  {
+    "name": "Monkey Academy",
+    "uniqueTo": "Eggy",
+    "replaces": "University",
+    "maintenance": 2,
+    "hurryCostModifier": 15,
+    "percentStatBonus": {"science": 33},
+    "specialistSlots": {"Scientist": 2},
+    "requiredBuilding": "Library",
+    "uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+    "requiredTech": "Education"
+  },
+  {
+    "name": "Monkey Bank",
+    "uniqueTo": "Eggy",
+    "replaces": "Bank",
+    "gold": 2,
+    "specialistSlots": {"Merchant": 1},
+    "hurryCostModifier": 15,
+    "percentStatBonus": {"gold": 25},
+    "requiredBuilding": "Market",
+    "requiredTech": "Banking"
+  },
+  {
+    "name": "Banana Exchange",
+    "uniqueTo": "Eggy",
+    "replaces": "Stock Exchange",
+    "gold": 3,
+    "percentStatBonus": {"gold": 33},
+    "specialistSlots": {"Merchant": 2},
+    "hurryCostModifier": 15,
+    "requiredBuilding": "Bank",
+    "requiredTech": "Electricity"
+  },
+  {
+    "name": "Temple of the Monkey God",
+    "uniqueTo": "Eggy",
+    "replaces": "Grand Temple",
+    "cost": 125,
+    "culture": 1,
+    "faith": 8,
+    "uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+      "[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+    "requiredTech": "Theology",
+    "isNationalWonder": true
+  },
+  {
+    "name": "Banana Research Facility",
+    "uniqueTo": "Eggy",
+    "replaces": "Research Lab",
+    "science": 4,
+    "percentStatBonus": {"science": 50},
+    "specialistSlots": {"Scientist": 1},
+    "requiredBuilding": "Public School",
+    "maintenance": 3,
+    "requiredTech": "Plastics"
+  },
+  {
+    "name": "Bloontonium Reactor",
+    "uniqueTo": "Eggy",
+    "replaces": "Nuclear Plant",
+    "production": 5,
+    "percentStatBonus": {"production": 15},
+    "requiredBuilding": "Factory",
+    "maintenance": 3,
+    "requiredResource": "Uranium",
+    "requiredTech": "Nuclear Fission",
+    "uniques": ["Only available <in cities without a [Solar Plant]>"]
+  },
+  {
+    "name": "Monkey Intelligence Bureau",
+    "uniqueTo": "Eggy",
+    "replaces": "National Intelligence Agency",
+    "cost": 120,
+    "culture": 1,
+    "isNationalWonder": true,
+    "uniques": ["Only available <when espionage is enabled>",
+      "New spies start with [1] level(s)",
+      "Promotes all spies [1] time(s)",
+      "Gain an extra spy", // Order is significant here
+      "[-15]% enemy spy effectiveness [in this city]",
+      "Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>",
+      "Cost increases by [30] per owned city"],
+    "requiredTech": "Radio"
+  }
 ]
