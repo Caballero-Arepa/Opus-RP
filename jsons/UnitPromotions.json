@@ -1,4 +1,5 @@
 [
+	//Vanilla
 	{
 		"name": "Heal Instantly",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
@@ -768,5 +769,19 @@
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
 		"uniques": ["Unable to pillage tiles"]
-	}
+	},
+	//Medieval Civs
+	
+	{
+		"name": "Kavkhan",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"]
+	},  
+		{
+		"name": "Crusader",
+		"uniques": ["Can move immediately once bought"]
+	}, 
+	{
+		"name": "[Housecarl] ability",
+		"uniques": ["Double movement in [Snow]","Double movement in [Tundra]","Double movement in [Hill]","Double movement in [Coast]","Normal vision when embarked"]
+	}, 
 ]
