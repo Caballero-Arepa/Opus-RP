@@ -300,13 +300,17 @@
         },
         "uniques": [
             "[-25]% City-State Influence degradation",
-            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>"
+            "City-State Influence recovers at twice the normal rate",
+            "When declaring friendship, both parties gain a [+5]% boost to great person generation",
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>",
+            "[+1 Happiness] from every [Amphitheather]"
         ],
         "policies": [
             {
                 "name": "Philantropy",
                 "uniques": [
-                    "Gifts of Gold to City-States generate [25]% more Influence"
+                    "Gifts of Gold to City-States generate [25]% more Influence",
+                    "Gain [2] Influence with a [Military] gift to a City-State",
                 ],
                 "row": 1,
                 "column": 2
@@ -314,7 +318,8 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
+                    "Resting point for Influence with City-States is increased by [20]",
+                    "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves"
                 ],
                 "row": 1,
                 "column": 4
@@ -322,7 +327,8 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves",
+                    "Allied City-States provide [Faith] equal to [50]% of what they produce for themselves"
                 ],
                 "requires": ["Philantropy"],
                 "row": 2,
@@ -342,7 +348,9 @@
                 "name": "Educated Elite",
                 "requires": ["Scholasticism", "Aesthetics"],
                 "uniques": [
-                    "Allied City-States will occasionally gift Great People"
+                    "Allied City-States will occasionally gift Great People",
+                    "Militaristic City-States grant units [3] times as fast when you are at war with a common nation",
+                    "Military Units gifted from City-States start with [15] XP"
                 ],
                 "row": 3,
                 "column": 4
@@ -350,8 +358,9 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [33]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]",
+                    "Influence of all other civilizations with all city-states degrades [25]% faster",
+                    "City-State territory always counts as friendly territory",
+                    "Gain an extra spy",
                     "Get the leader title of [[leaderName] the Enlightened]"
                 ]
             }
