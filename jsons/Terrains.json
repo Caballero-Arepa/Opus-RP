@@ -531,6 +531,56 @@
          	]
 	},
 	{
+		"name": "IMF 1",
+		"type": "TerrainFeature",
+		"occursOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "IMF 2",
+		"type": "TerrainFeature",
+		"occursOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "IMF 3",
+		"type": "TerrainFeature",
+		"occursOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "IMF 4",
+		"type": "TerrainFeature",
+		"occursOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "IMF 5",
+		"type": "TerrainFeature",
+		"occursOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
 		"name": "UMT 1",
 		"type": "Land",
 		"movementCost": 1,
@@ -578,6 +628,66 @@
 		"RGB": [31, 81, 111],
 		"uniques": [
 			"Will not be displayed in Civilopedia","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 1",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 1"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 2",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 1"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 3",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 2","UMT 3","UMT 4","UMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 4",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 2","UMT 3","UMT 4","UMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 5",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 2","UMT 3","UMT 4","UMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
+         	]
+	},
+	{
+		"name": "UMF 6",
+		"type": "TerrainFeature",
+		"occursOn": ["UMT 2","UMT 3","UMT 4","UMT 5"],
+		"movementCost": 1,
+		"impassable": true,
+		"uniques": [
+			"Will not be displayed in Civilopedia","Excluded from map editor","Doesn't generate naturally"
          	]
 	},
 	
