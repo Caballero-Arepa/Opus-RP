@@ -538,4 +538,72 @@
 					"Doesn't generate naturally <in [{Forest} {Hill}] tiles>",
 					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
 	}
+
+	//Secret Stuff
+	//A	
+	{
+		"name": "IBR 1",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	{
+		"name": "IBR 2",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	{
+		"name": "IBR 3",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	{
+		"name": "IBR 4",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	{
+		"name": "IBR 5",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	{
+		"name": "IBR 6",
+		"resourceType": "Bonus", //Or luxury
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"food": 1,
+	},
+	// Strategic resources
+	{
+		"name": "ISR 1",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"production": 1,
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
+		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
+	},
+	{
+		"name": "ISR 2",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"production": 1,
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
+		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
+	},
+	{
+		"name": "ISR 3",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"production": 1,
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
+		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
+	},
+	//B
 ]
