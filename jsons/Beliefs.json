@@ -222,12 +222,12 @@
     {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+3 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
     },
     {
         "name": "Monasteries",
         "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Monastery] buildings for [100] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Mosques",
@@ -247,7 +247,7 @@
     {
         "name": "Religious Art",
         "type": "Follower",
-        "uniques": ["[+8 Culture] from every [Hermitage]"]
+        "uniques": ["[+10 Culture] from every [Hermitage]"]
     },
     {
         "name": "Religious Center",
@@ -258,6 +258,26 @@
         "name": "Religious Community",
         "type": "Follower",
         "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
+    },
+    {
+        "name": "Religious Festivals",
+        "type": "Follower",
+        "uniques": ["[+1]% [Culture] from every follower, up to [15]%"]
+    },
+    {
+        "name": "Religious Consumerism",
+        "type": "Follower",
+        "uniques": ["[+1]% [Gold] from every follower, up to [10]%"]
+    },
+    {
+        "name": "Fervor",
+        "type": "Follower",
+        "uniques": ["[+1]% [Faith] from every follower, up to [10]%"]
+    },
+    {
+        "name": "Divine Diet",
+        "type": "Follower",
+        "uniques": ["[+1]% [Gold] from every follower, up to [5]%"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -282,6 +302,46 @@
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
+        "name": "Initiation Rites",
+        "type": "Founder",
+        "uniques": ["[+100 Gold] when a city adopts this religion for the first time (modified by game speed)"]
+    },
+    {
+        "name": "Initiation Party",
+        "type": "Founder",
+        "uniques": ["[+100 Culture] when a city adopts this religion for the first time (modified by game speed)"]
+    },
+    {
+        "name": "Sacred Debate",
+        "type": "Founder",
+        "uniques": ["[+100 Science] when a city adopts this religion for the first time (modified by game speed)"]
+    },
+    {
+        "name": "Sudden Enlightenment",
+        "type": "Founder",
+        "uniques": ["[+100 Faith] when a city adopts this religion for the first time (modified by game speed)"]
+    },
+    {
+        "name": "Interfaith Dialogue",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
+    },
+    {
+        "name": "Cost of Forgiveness",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"]
+    },
+    {
+        "name": "Welcomed to the Fold",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [15] times the amount of followers of other religions as [Culture]"]
+    },
+    {
+        "name": "Papal Primacy",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]"]
+    },
+    {
         "name": "Ceremonial Burial",
         "type": "Founder",
         "uniques": ["[+1 Happiness] for each global city following this religion"]
@@ -292,31 +352,6 @@
         "uniques": ["[+2 Gold] for each global city following this religion"]
     },
     {
-        "name": "Initiation Rites",
-        "type": "Founder",
-        "uniques": ["[+100 Gold] when a city adopts this religion for the first time (modified by game speed)"]
-    },
-    {
-        "name": "Initiation Party",
-        "type": "Founder",
-        "uniques": ["[+50 Culture] when a city adopts this religion for the first time (modified by game speed)"]
-    },
-    {
-        "name": "Interfaith Dialogue",
-        "type": "Founder",
-        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
-    }
-    {
-        "name": "Papal Primacy",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+15]"]
-    },
-    {
-        "name": "Peace Loving",
-        "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"]
-    },
-    {
         "name": "Pilgrimage",
         "type": "Founder",
         "uniques": ["[+2 Faith] for each global city following this religion"]
@@ -325,6 +360,11 @@
         "name": "Progressivism",
         "type": "Founder",
         "uniques": ["[+2 Science] for each global city following this religion"]
+    },
+    {
+        "name": "Adaptation",
+        "type": "Founder",
+        "uniques": ["[+2 Culture] for each global city following this religion"]
     },
     {
         "name": "Tithe",
@@ -342,6 +382,11 @@
         "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
     },
     {
+        "name": "Peace Loving",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"]
+    },
+    {
       "name": "Divine Purpose",
       "type": "Founder",
       "uniques": [
@@ -349,24 +394,31 @@
         "[Gold] cost of purchasing [All] units [-10]%",
         "[Gold] cost of purchasing [All] units [-10]% <during a Golden Age>"]
     },
-  {
+    {
     "name": "Martial Rites",
     "type": "Founder",
-    "uniques": [
-      "New [Military] units start with [15] XP"
-    ]
-  },
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
-  
+    "uniques": ["New [Military] units start with [15] XP [in all cities]"]
+    },
     {
+    "name": "Battle Codex",
+    "type": "Founder",
+    "uniques": ["[-10]% XP required for promotions"]
+     },
+     {
         "name": "Divine Struggle",
         "type": "Founder",
         "uniques": ["Gain [0]-[50] [Faith] <upon declaring war on [Major] Civilizations>","Gain [20]-[100] [Culture] <upon declaring war on [Major] Civilizations>"]
     },
+    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+    },
+    {
+        "name": "Just War",
+        "type": "Enhancer",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
     },
     {
         "name": "Divine Dynasties",
@@ -398,11 +450,7 @@
         "type": "Enhancer",
         "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
     },
-    {
-        "name": "Just War",
-        "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
-    },
+   
     {
         "name": "Messiah",
         "type": "Enhancer",
@@ -441,8 +489,18 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["[+50 Faith] whenever a Great Person is expended"]
-    }
+        "uniques": ["[+100 Faith] whenever a Great Person is expended"]
+    },
+    {
+        "name": "Local Saint",
+        "type": "Enhancer",
+        "uniques": ["[+100 Culture] whenever a Great Person is expended"]
+    },
+    {
+        "name": "Divine Vision",
+        "type": "Enhancer",
+        "uniques": ["[+100 Science] whenever a Great Person is expended"]
+    },
     {
         "name": "Royal Mission",
         "type": "Enhancer",
