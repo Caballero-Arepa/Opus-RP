@@ -481,6 +481,18 @@
          	]
 	},
 	{
+		"name": "Howling Winds",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"occursOn": ["Ocean","Coast"],
+		"impassable": true,
+		"uniques": [
+			"Has an elevation of [10] for visibility calculations",
+			"Doesn't generate naturally",
+			"Comment [Howling Winds, Thunderstorms and tornados ravage the sea around these parts. Deemed absolutely untraversable by most, and of the brave souls that doubted the common thesis, none have returned. We will need a lot of science, faith and ingenuity to find a way to breach this natural barrier!]"
+         	]
+	},
+	{
 		"name": "IMT 1",
 		"type": "Land",
 		"movementCost": 1,
