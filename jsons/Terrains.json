@@ -238,7 +238,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Mesa Desert","IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","UMT 2","UMT 3","UMT 4","UMT 5"],
+		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Mesa Desert"],
 		"uniques": ["Rough terrain",
 					"[+5] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",
@@ -304,20 +304,20 @@
 		"RGB": [125, 199, 192],
 		"occursOn": ["Coast"]
                 "uniques": [
-            "Rough terrain","Doesn't generate naturally"
+            "Rough terrain","Doesn't generate naturally",
             "Every [15] tiles with this terrain will receive a major deposit of a strategic resource.",
          	]
 	},
 	{
 		"name": "Mangrove Forest",
-		"type": "Land",
-		//"type": "TerrainFeature",
+		//"type": "Land",
+		"type": "TerrainFeature",
 		"food": 2,
 		"movementCost": 3,
 		"overrideStats": true,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
-		//"occursOn": ["Coast","Plains","Grassland"],
+		"occursOn": ["Coast","Plains","Grassland"],
 		"uniques": [
 			"Rough terrain", "Vegetation",
 			"Blocks line-of-sight from tiles at same elevation",
