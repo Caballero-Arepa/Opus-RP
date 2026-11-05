@@ -280,7 +280,7 @@
 		"adjective": ["Banana Republican"],
 		"startBias": ["Jungle"],
 		"outerColor": [1,1,1],
-		"innerColor": [102,89,0],
+		"innerColor": [127,109,2],
 		"uniqueName": "Monkey Business",
 		"uniques": [
       "[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]",
