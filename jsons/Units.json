@@ -557,4 +557,21 @@
 		"promotions": ["Evasion"],
 		"attackSound": "bombing"
 	}
+
+	//Lake units
+	{
+		"name": "Lake Boats", //Work Boats on Lakes, for testing
+		"unitType": "Civilian",
+		"upgradesTo": "Work Boats",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": [
+			"[This Unit] upgrades for free <upon turn start>",
+			"Only available <in [non-[Coastal]] cities> <within [2] tiles of a [Lakes]>",
+			"Cannot enter ocean tiles <before discovering [Astronomy]>",
+			"May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"
+		]
+	},
 ]
