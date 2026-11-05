@@ -114,6 +114,7 @@
 		"RGB": [125, 199, 150],
 		"uniques": [
             "[+2] Strength for cities built on this terrain",
+			"Has an elevation of [1] for visibility calculations",
 			"[+1 Culture] <with [1] to [6] neighboring [Mountain] tiles>",
             "Rough terrain","Considered [Desirable] when determining start locations",
             "Becomes [Grassland] when adjacent to [River]",
