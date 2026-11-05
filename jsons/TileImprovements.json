@@ -31,7 +31,7 @@
 	//Forts and Land Control
 	{
 		"name": "Land Takeover",
-		"terrainsCanBeBuiltOn": ["Land","Mangrove Forest"],
+		"terrainsCanBeBuiltOn": ["Land","Mangrove Forest","Lakes"],
 		"uniques": [
 				"Can be built just outside your borders",
 				"Gain control over [all] tiles in a [0]-tile radius",
@@ -47,7 +47,7 @@
 	},
 	{
 		"name": "Land Occupation",
-		"terrainsCanBeBuiltOn": ["Land","Mangrove Forest"],
+		"terrainsCanBeBuiltOn": ["Land","Mangrove Forest","Lakes"],
 		"uniques": [
 				"Can be built just outside your borders",
 				"Gain control over [all] tiles in a [0]-tile radius",
