@@ -19,7 +19,7 @@
         "[This unit] loses [1] movement <upon entering a [Fort] tile>",
         //"[-1] [Population] <upon constructing [Settler] [in this city]>", Actually a red error
         
-        /*
+        
         //City,town basic mechanics
         "[+1000000]% Culture cost of natural border growth [in all cities]",
         "[+1000000]% Gold cost of acquiring tiles [in all cities]",
@@ -27,7 +27,7 @@
         "Each city founded increases Science cost of Technologies [100]% less than normal"
 
         //City uniques
-        //Town uniques*/
+        //Town uniques
     ],
     "civilopediaText": [
         {"text": "Global uniques are ruleset-wide modifiers that apply to all civilizations."}
