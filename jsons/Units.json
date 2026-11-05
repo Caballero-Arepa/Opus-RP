@@ -568,6 +568,8 @@
 		"requiredTech": "Sailing",
 		"uniques": [
 			"[This Unit] upgrades for free <upon turn start>",
+			"[This Unit] upgrades for free <upon turn end>",
+			"Cannot move",
 			"Only available <in [non-[Coastal]] cities> <within [2] tiles of a [Lakes]>",
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"May create improvements on water resources",
