@@ -576,27 +576,4 @@
             "Uncapturable", "Automation is a primary action"
 		]
 	},
-	{
-		"name": "Test Boats", //Work Boats on Lakes, for testing
-		"unitType": "Civilian",
-		"movement": 1,
-		"cost": 30,
-		"requiredTech": "Sailing",
-		"uniques": [
-			"Only available <in [non-[Coastal]] cities> <within [2] tiles of a [Lakes]>",
-			"Cannot enter ocean tiles <before discovering [Astronomy]>",
-			"May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action"
-		]
-	},
-	{
-		"name": "Work Boats",
-		"unitType": "Civilian Water",
-		"replaces": "Test Boats",
-		"movement": 4,
-		"cost": 30,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
-            "Uncapturable", "Automation is a primary action"]
-	},
 ]
