@@ -16,7 +16,7 @@
 		"name": "Doubloon",
 		"leaderName": "Joya Schmith",
 	  	"style": "Arepino",
-		"outerColor": [1, 1, 1],
+		"outerColor": [254, 254, 254],
 		"innerColor": [26, 22, 22],
 		"startBias": ["Hill", "Plains"],
 		"uniqueName": "Greater Fortifications",
