@@ -102,18 +102,16 @@
   },
   {
 		"name": "Gandalf",
-		"leaderName": "leader",
+		"leaderName": "Tovenaari",
 	  	"style": "Arepino",
 		"outerColor": [1, 1, 1],
-		"innerColor": [119, 2, 23],
+		"innerColor": [174, 49, 232],
 
 		"startBias": ["Mountain"],
 	  
-		"uniqueName": "Arepa Cuisine",
-		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[+5] HP when healing <within [2] tiles of a [Arepa House]>",
-			"Expantionist"],
-
+		"uniqueName": "The Glory of Rome",
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
+		
 		"cities": ["no_name",
 			  ]
   },
