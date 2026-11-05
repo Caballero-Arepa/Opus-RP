@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ancient era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Scout",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35]
+    },
+]
