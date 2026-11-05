@@ -109,7 +109,7 @@
 		"name": "Wooden Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest"],
 		"turnsToBuild": 7,
-		"techRequired": "Mining"
+		"techRequired": "Mining",
 		"uniques": [
       			"Gives a defensive bonus of [15]%",
 				"Cannot be built on [Oasis] tiles",
@@ -131,7 +131,7 @@
 		"name": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest","Hill"],
 		"turnsToBuild": 7,
-		"techRequired": "Construction"
+		"techRequired": "Construction",
 		"uniques": [
       			"Gives a defensive bonus of [25]%",
 				"Cannot be built on [Oasis] tiles",
@@ -152,7 +152,7 @@
 		"name": "Ringworks",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest","Snow","Hill"],
 		"turnsToBuild": 5,
-		"techRequired": "Guilds"
+		"techRequired": "Guilds",
 		"uniques": [
       			"Gives a defensive bonus of [20]%",
 				"Cannot be built on [Oasis] tiles",
@@ -174,7 +174,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest","Snow","Hill"],
 		"turnsToBuild": 12,
 		"production": 1,
-		"techRequired": "Engineering"
+		"techRequired": "Engineering",
 		"uniques": [
       			"Gives a defensive bonus of [40]%",
 				"Cannot be built on [Oasis] tiles",
@@ -193,7 +193,7 @@
 		"name": "Motte and Bailey",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest","Snow","Hill"],
 		"turnsToBuild": 7,
-		"techRequired": "Guilds"
+		"techRequired": "Guilds",
 		"uniques": [
 				"Only available <after discovering [Engineering]>",
 				"Cannot be built on [Oasis] tiles",
@@ -217,7 +217,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Mesa Desert","Highlands","Mangrove Forest","Snow","Hill"],
 		"turnsToBuild": 10,
 		"production": 1,
-		"techRequired": "Physics"
+		"techRequired": "Physics",
 		"uniques": [
       			"Gives a defensive bonus of [40]%",
 				"Cannot be built on [Oasis] tiles",
@@ -238,7 +238,7 @@
 		"turnsToBuild": 14,
 		"production": 1,
 		"culture": 1,
-		"techRequired": "Physics"
+		"techRequired": "Physics",
 		"uniques": [
 				"Only available <after discovering [Guilds]>",
 				"Cannot be built on [Oasis] tiles",
