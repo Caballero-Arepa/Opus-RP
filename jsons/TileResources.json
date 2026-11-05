@@ -583,7 +583,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
@@ -592,7 +592,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
@@ -601,7 +601,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
@@ -648,7 +648,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
@@ -657,7 +657,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
@@ -666,7 +666,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
 		"production": 1,
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia","Not shown on world screen"],
 		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
 		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
 	},
