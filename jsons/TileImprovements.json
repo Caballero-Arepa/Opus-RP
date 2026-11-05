@@ -346,9 +346,12 @@
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
+		"uniques": [
+			"Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+			"Cannot be built on [Oasis] tiles",
+			"[+1 Food] <in tiles adjacent to [Volcano] tiles>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
@@ -371,7 +374,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Gold] <after discovering [Economics]>","Cannot be built on [Oasis] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
 	{
@@ -390,13 +393,20 @@
 		"replaces": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
-			"Gives a defensive bonus of [100]%",
-			"Adjacent enemy units ending their turn take [30] damage",
-			"Can be built just outside your borders",
-			"Gain control over [all] tiles in a [1]-tile radius",
-			"Removes removable features when built",
-            "Will not be replaced by automated units"
+				"Great Improvement",
+				"Cannot be built on [Oasis] tiles",
+				"Gives a defensive bonus of [100]%",
+				"Adjacent enemy units ending their turn take [30] damage",
+				"Can be built just outside your borders",
+				"Gain control over [non-[TIER II Fort]] tiles in a [1]-tile radius",
+				"Removes removable features when built",
+				"Land Control",
+				"TIER V Fort",
+				"TIER IV Fort",
+				"TIER III Fort",
+				"TIER II Fort",
+				"TIER I Fort",
+            	"Will not be replaced by automated units"
 		]
 	}
 ]
