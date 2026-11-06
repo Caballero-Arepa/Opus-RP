@@ -71,10 +71,9 @@
 		"name": "Water Control",
 		"terrainsCanBeBuiltOn": ["Coast","Lakes","Rocky Waters","Atoll"],
 		"uniques": [
-				"Can be built just outside your borders",
+				"Can be built outside your borders",
 				"Gain control over [all] tiles in a [0]-tile radius",
 				"Comment [Can be built on a Coast or Lake tile to take it over. Requirements:\n-The tile needs to be within 4 tiles of one of your cities\n-If another player owns the tile and has an adjacent fortification, you need to have higher tier one]",
-				"Can only be built on [non-[your]] tiles <hidden from users>", //Water you don't own
 				"Only available <within [4] tiles of a [{your} {City center}]> <hidden from users>", //Close to your cities
 				"Unavailable <in [non-[Unowned] tiles> <in tiles adjacent to [{non-[your]} {Land Control}] tiles> <in tiles not adjacent to [{your} {TIER I Fort}] tiles> <hidden from users>",
 				"Unavailable <in [non-[Unowned] tiles> <in tiles adjacent to [{non-[your]} {TIER I Fort}] tiles> <in tiles not adjacent to [{your} {TIER II Fort}] tiles> <hidden from users>",
