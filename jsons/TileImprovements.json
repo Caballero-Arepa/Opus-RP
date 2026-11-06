@@ -74,14 +74,14 @@
 				"Can be built outside your borders",
 				"Gain control over [all] tiles in a [0]-tile radius",
 				"Comment [Can be built on a Coast or Lake tile to take it over. Requirements:\n-The tile needs to be within 4 tiles of one of your cities\n-If another player owns the tile and has an adjacent fortification, you need to have higher tier one]",
-				"Only available <within [4] tiles of a [{your} {City center}]> <hidden from users>", //Close to your cities
-				"Unavailable <in tiles adjacent to [{non-[your]} {Land Control}] tiles> <in tiles not adjacent to [{your} {TIER I Fort}] tiles> <hidden from users>",
-				"Unavailable <in tiles adjacent to [{non-[your]} {TIER I Fort}] tiles> <in tiles not adjacent to [{your} {TIER II Fort}] tiles> <hidden from users>",
-				"Unavailable <in tiles adjacent to [{non-[your]} {TIER II Fort}] tiles> <in tiles not adjacent to [{your} {TIER III Fort}] tiles> <hidden from users>",
-				"Unavailable <in tiles adjacent to [{non-[your]} {TIER III Fort}] tiles> <in tiles not adjacent to [{your} {TIER IV Fort}] tiles> <hidden from users>",
-				"Unavailable <in tiles adjacent to [{non-[your]} {TIER IV Fort}] tiles> <in tiles not adjacent to [{your} {TIER V Fort}] tiles> <hidden from users>",
-				"Does not need removal of [Rocky Waters] <hidden from users>",
-				"Does not need removal of [Atoll] <hidden from users>",
+				//"Only available <within [4] tiles of a [{your} {City center}]> <hidden from users>", //Close to your cities
+				//"Unavailable <in tiles adjacent to [{non-[your]} {Land Control}] tiles> <in tiles not adjacent to [{your} {TIER I Fort}] tiles> <hidden from users>",
+				//"Unavailable <in tiles adjacent to [{non-[your]} {TIER I Fort}] tiles> <in tiles not adjacent to [{your} {TIER II Fort}] tiles> <hidden from users>",
+				//"Unavailable <in tiles adjacent to [{non-[your]} {TIER II Fort}] tiles> <in tiles not adjacent to [{your} {TIER III Fort}] tiles> <hidden from users>",
+				//"Unavailable <in tiles adjacent to [{non-[your]} {TIER III Fort}] tiles> <in tiles not adjacent to [{your} {TIER IV Fort}] tiles> <hidden from users>",
+				//"Unavailable <in tiles adjacent to [{non-[your]} {TIER IV Fort}] tiles> <in tiles not adjacent to [{your} {TIER V Fort}] tiles> <hidden from users>",
+				//"Does not need removal of [Rocky Waters] <hidden from users>",
+				//"Does not need removal of [Atoll] <hidden from users>",
 				"Takeover"
 		],
 	},
