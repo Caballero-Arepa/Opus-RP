@@ -285,6 +285,7 @@
 				"Adjacent enemy units ending their turn take [30] damage",
 				"Can be built just outside your borders",
 				"Gain control over [non-[TIER II Fort]] tiles in a [1]-tile radius",
+				"Gain control over [all] tiles in a [0]-tile radius", //Citadel tile itself
 				"Removes removable features when built",
 				"Land Control",
 				"TIER V Fort",
@@ -418,6 +419,7 @@
 				"Adjacent enemy units ending their turn take [30] damage",
 				"Can be built just outside your borders",
 				"Gain control over [non-[TIER II Fort]] tiles in a [1]-tile radius",
+				"Gain control over [all] tiles in a [0]-tile radius", //Dont forgot eggy with this fix :)
 				"Removes removable features when built",
 				"Land Control",
 				"TIER V Fort",
