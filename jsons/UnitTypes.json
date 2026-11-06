@@ -83,12 +83,12 @@
     {
         "name": "Melee Water",
         "movementType": "Water"
-        "uniques": ["May enter foreign tiles without open borders"]
+        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <in [non-[your]] tiles> <for all movement>"]
     },
     {
         "name": "Ranged Water",
         "movementType": "Water"
-        "uniques": ["May enter foreign tiles without open borders"]
+        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <in [non-[your]] tiles> <for all movement>"]
     },
     {
         "name": "Submarine",
