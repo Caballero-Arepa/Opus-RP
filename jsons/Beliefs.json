@@ -2,7 +2,8 @@
   {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["[+1 Culture] from every [Shrine]",
+                    "[+1 Culture] from every [Monument]"]
     },
     {
         "name": "Bless the Fields",
@@ -36,9 +37,12 @@
         "uniques": ["[+10]% growth [in this city]"]
     },
     {
-        "name": "God of Craftsman",
+        "name": "God of Craftsmen",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] [in cities following this religion] <in cities with at least [3] [Population]>"]
+        "uniques": ["[+1 Production] [in cities following this religion] <in cities with at least [3] [Population]>",
+                    "[+1 Production] [in cities following this religion] <in cities with at least [6] [Population]>",
+                    "[+1 Production] [in cities following this religion] <in cities with at least [9] [Population]>"
+                  ]
     },
     {
         "name": "God of the Open Sky",
@@ -56,14 +60,24 @@
         "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion"]
     },
     {
+        "name": "God of Spoils",
+        "type": "Pantheon",
+        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"]
+    },
+    {
+        "name": "God of Battle",
+        "type": "Pantheon",
+        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Culture] when killed within 4 tiles of a city following this religion"]
+    },
+    {
         "name": "God-King",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith] from every [Palace]"]
+        "uniques": ["[+1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] from every [Palace]"]
     },
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]", "[+1 Culture, +1 Faith] from every [Dyes]"]
+        "uniques": ["[+1 Culture, +1 Faith, +1 Gold] from every [Wine]", "[+1 Culture, +1 Faith, +1 Gold] from every [Incense]", "[+1 Culture, +1 Faith, +1 Gold] from every [Dyes]"]
     },
     {
         "name": "Goddess of Love",
@@ -73,7 +87,8 @@
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+30]% Strength for cities <when attacking>"]
+        "uniques": ["[+30]% Strength for cities <when attacking>",
+                    "[+1 Culture] from every [Walls]"]
     },
     {
         "name": "Goddess of the Hunt",
@@ -89,6 +104,21 @@
         "name": "Messenger of the Gods",
         "type": "Pantheon",
         "uniques": ["[+2 Science] from each Trade Route"]
+    },
+    {
+        "name": "God of Commerce",
+        "type": "Pantheon",
+        "uniques": ["[+2 Gold] from each Trade Route"]
+    },
+    {
+        "name": "God of Pilgrims",
+        "type": "Pantheon",
+        "uniques": ["[+2 Faith] from each Trade Route"]
+    },
+    {
+        "name": "God of Travelers",
+        "type": "Pantheon",
+        "uniques": ["[+2 Culture] from each Trade Route"]
     },
     {
         "name": "Monsoon Festivals",
@@ -277,7 +307,7 @@
     {
         "name": "Divine Diet",
         "type": "Follower",
-        "uniques": ["[+1]% [Gold] from every follower, up to [5]%"]
+        "uniques": ["[+1]% [Food] from every follower, up to [5]%"]
     },
     {
         "name": "Swords into Ploughshares",
