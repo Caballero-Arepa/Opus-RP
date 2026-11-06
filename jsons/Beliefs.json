@@ -36,7 +36,7 @@
         "uniques": ["[+10]% growth [in this city]"]
     },
     {
-        "name": "God of Craftsman",
+        "name": "God of Craftsmen",
         "type": "Pantheon",
         "uniques": ["[+1 Production] [in cities following this religion] <in cities with at least [3] [Population]>"]
     },
@@ -277,7 +277,7 @@
     {
         "name": "Divine Diet",
         "type": "Follower",
-        "uniques": ["[+1]% [Gold] from every follower, up to [5]%"]
+        "uniques": ["[+1]% [Food] from every follower, up to [5]%"]
     },
     {
         "name": "Swords into Ploughshares",
