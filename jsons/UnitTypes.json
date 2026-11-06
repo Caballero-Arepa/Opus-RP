@@ -83,13 +83,13 @@
     {
         "name": "Melee Water",
         "movementType": "Water"
-        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <in [non-[your]] tiles> <for [10] movement>",
+        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <for [1] movement>",
             "Remove [Takeover] improvements from this tile <upon ending a turn in a [Takeover] tile>"]
     },
     {
         "name": "Ranged Water",
         "movementType": "Water"
-        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <in [non-[your]] tiles> <for [10] movement>",
+        "uniques": ["May enter foreign tiles without open borders","Can instantly construct a [Water Control] improvement <for [1] movement>",
             "Remove [Takeover] improvements from this tile <upon ending a turn in a [Takeover] tile>"]
     },
     {
