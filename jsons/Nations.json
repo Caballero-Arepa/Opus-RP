@@ -109,8 +109,10 @@
 
 		"startBias": ["Mountain"],
 	  
-		"uniqueName": "The Glory of Rome",
-		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital"],
+		"uniqueName": "Magistra Opus",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>"],
 		
 		"cities": ["no_name",
 			  ]
