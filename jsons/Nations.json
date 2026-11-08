@@ -143,8 +143,8 @@
 		"name": "David",
 		"leaderName": "Davith of Ayutthaya",
 	  	"style": "Dathayans",
-		"outerColor": [1, 1, 1],
-		"innerColor": [119, 2, 23],
+		"outerColor": [252, 155, 1],
+		"innerColor": [255, 255, 37],
 
         "defeated": "That's not okayish.",
      	"introduction": "Hello, I'm okayish.",
@@ -153,7 +153,7 @@
 	    "tradeRequest": "Hello, I'm okayish.",
 	  
 		"startBias": ["Avoid [Tundra]"],
-		"uniqueName": "Deus Vult",
+		"uniqueName": "A shrine a day keeps the sinners away",
 		"uniqueText": "Land units may move immediately once bought. Receive free Shrine in capital at the beginning of the game and then in each of your cities after researching Philosophy. Receive a free Temple after researching Education",
 		"uniques": ["[Land] units gain the [Crusader] promotion","Gain a free [Shrine] [in capital]","Gain a free [Shrine] [in all cities] <after discovering [Philosophy]>","Gain a free [Temple] [in all cities] <after discovering [Education]>"],
 
