@@ -54,7 +54,6 @@
         "uniques": [
             "May enter foreign tiles without open borders",
             "Can instantly construct a [Land Takeover] improvement <in [Unowned] tiles> <in tiles adjacent to [your] tiles> <for [10] movement>",
-            "Can instantly construct a [Land Occupation] improvement <in [{non-[Unowned]} {non-[your]}] tiles> <in tiles adjacent to [your] tiles> <for [10] movement>",
             "Can instantly construct a [Water Control] improvement <for [10] movement> <in [non-[your]] tiles>",
             "Remove [Takeover] improvements from this tile <upon ending a turn in a [Takeover] tile>"
                 ]
