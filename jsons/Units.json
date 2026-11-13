@@ -95,7 +95,11 @@
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": [
+					"May upgrade to [Archer] through ruins-like effects",
+					"Never appears as a Barbarian unit",
+					"Gain [1] [Faith] <upon turn end> <when above [1] movement> <within [2] tiles of a [Great Barrier Reef]> <for [Doubloon] Civilizations> <hidden from users>",
+		],
 		"promotions": ["Ignore terrain cost","Scouting I"],
 		"attackSound": "nonmetalhit"
 	},
