@@ -225,4 +225,10 @@
 		"cost": 0,
 		"uniques": ["Destroyed when the city is captured","Limited to [1] per Civilization","Free [Landlord] appears","Unsellable","Will not be displayed in Civilopedia"]
 	},
+	{
+		"name": "Darkian Warriors",
+    	"uniqueTo": "Darko",
+		"cost": 0,
+		"uniques": ["Destroyed when the city is captured","Limited to [1] per Civilization","Free [Warrior] appears","Free [Scout] appears","Unsellable","Will not be displayed in Civilopedia"]
+	},
 ]
