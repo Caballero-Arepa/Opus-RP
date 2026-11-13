@@ -218,4 +218,11 @@
       "Cost increases by [30] per owned city"],
     "requiredTech": "Radio"
   }
+	//temp
+	{
+		"name": "Give David August a Road",
+    	"uniqueTo": "David",
+		"cost": 0,
+		"uniques": ["Destroyed when the city is captured","Limited to [1] per Civilization","Free [Landlord] appears","Unsellable","Will not be displayed in Civilopedia"]
+	},
 ]
