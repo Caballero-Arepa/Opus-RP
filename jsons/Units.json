@@ -19,12 +19,12 @@
 	{
 		"name": "Landlord",
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 70,
-		"requiredTech": "The Wheel",
-		"uniques": ["Gain [3] [Culture] <in this city> <by consuming this unit>",
-			"Can be purchased for [3] [Culture] [in all cities]",
-			"Requires at least [2] population", "Unbuildable", "Shown while unbuildable"],
+		"movement": 4,
+		"cost": 0,
+		"uniques": [
+			"No Sight",
+			"Can instantly construct a [Road] improvement <after which this unit is consumed> <[3] times> <for [0] movement> <for [David] Civilizations> <hidden from users>",
+			"Unbuildable", "Cannot be purchased"],
 		"hurryCostModifier": 20
 	},
 	/*
@@ -46,9 +46,9 @@
 		"movement": 2,
 		"cost": 70,
 		"requiredTech": "The Wheel",
-		"uniques": ["Gain [3] [Science] <in this city> <by consuming this unit>",
-			"Can be purchased for [3] [Science] [in all cities]",
-			"Requires at least [2] population", "Unbuildable", "Shown while unbuildable"],
+		"uniques": [
+			
+			"Requires at least [2] population", "Unbuildable", "Cannot be purchased", "Shown while unbuildable"],
 		"hurryCostModifier": 20
 	},
 	
