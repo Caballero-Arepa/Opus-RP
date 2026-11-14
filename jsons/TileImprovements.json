@@ -430,4 +430,20 @@
             	"Will not be replaced by automated units"
 		]
 	}
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		//"techRequired": "The Wheel",
+		"uniques": [
+			"Can be built outside your borders", "Costs [1] [Gold] per turn",
+			"Unavailable <before discovering [The Wheel]> <for [non-[David]] Civilizations>"
+		],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
+	},
 ]
