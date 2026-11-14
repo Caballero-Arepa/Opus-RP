@@ -93,8 +93,10 @@
 		"uniques": [
       			"Gives a defensive bonus of [5]%",
 				"Cannot be built on [Oasis] tiles",
-				"Costs [1] [Gold] per turn when in your territory",
+			
+				//"Costs [1] [Gold] per turn when in your territory",
 				"Provides [1] [Fortifications Upkeep]",
+			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
 				"Comment [Cannot be built in the territory of another player]",
@@ -113,7 +115,7 @@
 		"uniques": [
       			"Gives a defensive bonus of [15]%",
 			
-				"Costs [1] [Gold] per turn when in your territory",
+				//"Costs [1] [Gold] per turn when in your territory",
 				"Provides [1] [Fortifications Upkeep]",
 			
 				"Can be built just outside your borders",
@@ -137,7 +139,7 @@
       			"Gives a defensive bonus of [15]%",
 				"Cannot be built on [Oasis] tiles",
 			
-				"Costs [1] [Gold] per turn when in your territory",
+				//"Costs [1] [Gold] per turn when in your territory",
 				"Provides [1] [Fortifications Upkeep]",
 			
 				"Can be built just outside your borders",
@@ -162,7 +164,7 @@
       			"Gives a defensive bonus of [25]%",
 				"Cannot be built on [Oasis] tiles",
 			
-				"Costs [2] [Gold] per turn when in your territory",
+				//"Costs [2] [Gold] per turn when in your territory",
 				"Provides [2] [Fortifications Upkeep]",
 			
 				"Can be built just outside your borders",
@@ -185,7 +187,7 @@
 		"uniques": [
       			"Gives a defensive bonus of [20]%",
 			
-				"Costs [1] [Gold] per turn when in your territory",
+				//"Costs [1] [Gold] per turn when in your territory",
 				"Provides [1] [Fortifications Upkeep]",
 			
 				"Can be built just outside your borders",
@@ -210,7 +212,7 @@
       			"Gives a defensive bonus of [40]%",
 				"Cannot be built on [Oasis] tiles",
 			
-				"Costs [3] [Gold] per turn when in your territory",
+				//"Costs [3] [Gold] per turn when in your territory",
 				"Provides [3] [Fortifications Upkeep]",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
@@ -233,7 +235,7 @@
 				"Cannot be built on [Oasis] tiles",
       			"Gives a defensive bonus of [30]%",
 			
-				"Costs [2] [Gold] per turn when in your territory",
+				//"Costs [2] [Gold] per turn when in your territory",
 				"Provides [2] [Fortifications Upkeep]",
 			
 				"Can be built just outside your borders",
@@ -259,7 +261,7 @@
       			"Gives a defensive bonus of [40]%",
 				"Cannot be built on [Oasis] tiles",
 			
-				"Costs [3] [Gold] per turn when in your territory",
+				//"Costs [3] [Gold] per turn when in your territory",
 				"Provides [3] [Fortifications Upkeep]",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
@@ -285,7 +287,7 @@
       			"Gives a defensive bonus of [50]%",
 				"Adjacent enemy units ending their turn take [10] damage",
 			
-				"Costs [4] [Gold] per turn when in your territory",
+				//"Costs [4] [Gold] per turn when in your territory",
 				"Provides [4] [Fortifications Upkeep]",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
