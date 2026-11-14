@@ -28,7 +28,7 @@
 		"leaderName": "Darko the Unifier",
 	  	"style": "Darkian",
 		"outerColor": [1, 1, 1],
-		"innerColor": [119, 2, 23],
+		"innerColor": [0, 75, 135],
 	    "startIntroPart1":"Ever since Emperor Darko I united the Arknian people under a single state, our civilization has rested upon one immutable order: The nobles' lot: the duty to rule. The priests' lot: the duty to teach. The commoners' lot: the duty to suffer for the glory of the Empire. From time immemorial, this ancient order has endured, unshaken by the passage of centuries. And so shall it endure for centuries yet to come, for such is our place in the grand design of the world.",
 	  	"declaringWar": "By the Emperor’s supreme mercy, you are granted twenty-four hours to lay down your arms. You would be wise to make good use of them.",
 	    "attacked": "So be it. War it is.",
