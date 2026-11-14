@@ -9,7 +9,7 @@
         "Mountain+Volcano": ["Volcano"],
         "Mountain+Dragon Peak": ["Dragon Peak"],
 
-        "Mesa Desert+Hill": ["HillM"]
+        "Mesa Desert+Hill": ["Mesa Desert","HillM"]
 		"Highlands+Forest":	["Highlands","ForestGH"]
 	}
 }
