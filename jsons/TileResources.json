@@ -545,36 +545,42 @@
 		"name": "IBR 1",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "IBR 2",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "IBR 3",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "IBR 4",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "IBR 5",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "IBR 6",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["IMT 1","IMT 2","IMT 3","IMT 4","IMT 5","IMF 1","IMF 2","IMF 3","IMF 4","IMF 5"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	// Strategic resources
@@ -610,36 +616,42 @@
 		"name": "UBR 1",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "UBR 2",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "UBR 3",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "UBR 4",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "UBR 5",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	{
 		"name": "UBR 6",
 		"resourceType": "Bonus", //Or luxury
 		"terrainsCanBeFoundOn": ["UMT 2","UMT 3","UMT 4","UMT 5","UMF 1","UMF 2","UMF 3","UMF 4","UMF 5","UMF 6"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"food": 1,
 	},
 	// Strategic resources
