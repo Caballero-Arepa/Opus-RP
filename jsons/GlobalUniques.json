@@ -14,11 +14,10 @@
         //new basic stuff
         "Rebel units may spawn <when below [-13] [Happiness]>",
         "[-1] Sight <for [All] units> <before discovering [Radio]>",
-        "May enter foreign tiles without open borders", //should probably be limited to specific units
-       // "[+3] HP when healing <when adjacent to a [Supplies Caravan] unit>",
-        "[This unit] loses [1] movement <upon entering a [Fort] tile>",
-        //"[-1] [Population] <upon constructing [Settler] [in this city]>", Actually a red error
-        
+        //"[This unit] loses [1] movement <upon entering a [Fort] tile>",
+
+        //Fort maintenance
+        "[-1 Gold] <for every [Fortifications Upkeep]>",
         
         //City,town basic mechanics
         "[+1000000]% Culture cost of natural border growth [in all cities]",
