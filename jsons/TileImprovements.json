@@ -349,12 +349,29 @@
 	},
 	{
 		"name": "Trading post",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Highlands","Mesa Desert","Mangrove Forest"],
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
 		"uniques": ["[+1 Gold] <after discovering [Economics]>","Cannot be built on [Oasis] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Mesa Desert","Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Pasture",
+		"terrainsCanBeBuiltOn": ["Highlands"],
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>","[+1 Food] from [{Highlands} {non-[Bonus resource]} {non-[Strategic resource]}] tiles","Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
 	},
 	{
 		"name": "Academy",
