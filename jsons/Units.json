@@ -23,7 +23,7 @@
 		"cost": 0,
 		"uniques": [
 			"No Sight",
-			"Can instantly construct a [Road] improvement <after which this unit is consumed> <[3] times> <for [0] movement> <for [David] Civilizations> <hidden from users>",
+			"Can instantly construct a [Road] improvement <after which this unit is consumed> <[3] times> <for [1] movement> <for [David] Civilizations> <hidden from users>",
 			"Unbuildable", "Cannot be purchased"],
 		"hurryCostModifier": 20
 	},
