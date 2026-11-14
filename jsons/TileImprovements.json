@@ -95,7 +95,8 @@
 				"Cannot be built on [Oasis] tiles",
 			
 				//"Costs [1] [Gold] per turn when in your territory",
-				"Provides [1] [Fortifications Upkeep]",
+				"Provides [1] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [1] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -116,7 +117,7 @@
       			"Gives a defensive bonus of [15]%",
 			
 				//"Costs [1] [Gold] per turn when in your territory",
-				"Provides [1] [Fortifications Upkeep]",
+				"Provides [1] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -140,7 +141,8 @@
 				"Cannot be built on [Oasis] tiles",
 			
 				//"Costs [1] [Gold] per turn when in your territory",
-				"Provides [1] [Fortifications Upkeep]",
+				"Provides [1] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [1] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -165,7 +167,8 @@
 				"Cannot be built on [Oasis] tiles",
 			
 				//"Costs [2] [Gold] per turn when in your territory",
-				"Provides [2] [Fortifications Upkeep]",
+				"Provides [2] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [2] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -188,7 +191,8 @@
       			"Gives a defensive bonus of [20]%",
 			
 				//"Costs [1] [Gold] per turn when in your territory",
-				"Provides [1] [Fortifications Upkeep]",
+				"Provides [1] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [1] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -213,7 +217,8 @@
 				"Cannot be built on [Oasis] tiles",
 			
 				//"Costs [3] [Gold] per turn when in your territory",
-				"Provides [3] [Fortifications Upkeep]",
+				"Provides [3] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [3] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
 				"Only available <within [5] tiles of a [{your} {City center}]> <hidden from users>",
@@ -236,7 +241,8 @@
       			"Gives a defensive bonus of [30]%",
 			
 				//"Costs [2] [Gold] per turn when in your territory",
-				"Provides [2] [Fortifications Upkeep]",
+				"Provides [2] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [2] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Can be built just outside your borders",
 				"Cannot be built on [{non-[your]} {non-[Unowned]}] tiles <hidden from users>", //Not in other players tiles
@@ -262,7 +268,8 @@
 				"Cannot be built on [Oasis] tiles",
 			
 				//"Costs [3] [Gold] per turn when in your territory",
-				"Provides [3] [Fortifications Upkeep]",
+				"Provides [3] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [3] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
 				"Only available <within [5] tiles of a [{your} {City center}]> <hidden from users>",
@@ -288,7 +295,8 @@
 				"Adjacent enemy units ending their turn take [10] damage",
 			
 				//"Costs [4] [Gold] per turn when in your territory",
-				"Provides [4] [Fortifications Upkeep]",
+				"Provides [4] [Fortifications Upkeep] <for [non-[Ravignir]] Civilizations>",
+				"Provides [4] [Fortifications Upkeep] <for [Ravignir] Civilizations> <in tiles without [Hill]>",
 			
 				"Gain control over [Unowned] tiles in a [1]-tile radius",
 				"Only available <within [5] tiles of a [{your} {City center}]> <hidden from users>",
