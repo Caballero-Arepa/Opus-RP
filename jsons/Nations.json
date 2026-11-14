@@ -134,7 +134,10 @@
 		"uniqueName": "Weathering the storm",
 		"uniques": ["[+25]% Strength <for [Wounded] units>",
 		"[+1 Food] from [Plantation] tiles",
-		"[+1 Happiness] from [Barracks]",]
+		"[+1 Happiness] from [Barracks]",
+		"[+1 Faith] in cities on [Fresh Water] tiles <hidden from users>",
+		"Gain [7] [Faith] <when number of [turns] is equal to [10]> <upon turn start> <hidden from users>",
+		]
 		"cities": ["1", "2", "3", "These Are Not Placeholders"]
         "spyNames": ["Rodrigo Vivar","Gonzalo Fernández","Isabel Castilla", "Mateo Benítez","Hernando Soto", 
 		"Catalina Mendoza", "Álvaro Bazán", "Valeria Salazar", "Diego Almagro", "Jimena Díaz"]
