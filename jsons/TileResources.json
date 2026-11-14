@@ -30,7 +30,20 @@
 				"text": "Is used to count all major cities you own that aren't puppets or in resistance, used for some in game calculations."
 			},
 		] 
-}*/
+},
+	*/
+
+{
+  "name": "Fortifications Upkeep",
+  "resourceType": "Strategic",
+  "uniques": ["Excluded from map editor","Cannot be traded"],
+  "civilopediaText": [
+			{
+				"text": "Shows you how much maintenance needs to be payed for all your encampments and fortifications. Each copy costs you 1 gold per turn."
+			},
+		] 
+},
+	
 	//G&K Stuff
 	// Bonus resources
 	{
