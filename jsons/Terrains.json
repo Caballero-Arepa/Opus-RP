@@ -20,6 +20,16 @@
         ]
 	},
 	{
+		"name": "TestLakes",
+		"type": "Water",
+		"food": 10,
+		"RGB": [100, 56, 220],
+		"uniques": [
+					"Coastal Water",
+					"Fresh water", "Fresh Water Source",
+					],
+	},
+	{
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
