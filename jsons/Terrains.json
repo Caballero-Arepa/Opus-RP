@@ -5,7 +5,9 @@
 		"food": 2,
 		"gold": 1,
 		"RGB": [0, 171, 169],
-		"uniques": ["Fresh water", "Fresh Water Source",
+		"uniques": [
+					"Coastal Water",
+					"Fresh water", "Fresh Water Source",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"],
         "civilopediaText": [
@@ -320,6 +322,7 @@
 		"defenceBonus": 0.25,
 		"occursOn": ["Coast","Plains","Grassland"],
 		"uniques": [
+			"Coastal Water",
 			"Rough terrain", "Vegetation",
 			"Blocks line-of-sight from tiles at same elevation",
 			"Considered [Desirable] when determining start locations",
