@@ -334,7 +334,7 @@ ReligionIcons/Order of the Sun God
   index: -1
 TileSets/FantasyHex/Tiles/Dark Land
   rotate: false
-  xy: 1244, 1563
+  xy: 791, 579
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -348,301 +348,329 @@ TileSets/FantasyHex/Tiles/Dark Land+Farm
   index: -1
 TileSets/FantasyHex/Tiles/Dragon Peak
   rotate: false
-  xy: 335, 306
+  xy: 2000, 1775
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Geothermal Plains
   rotate: false
-  xy: 2000, 1783
+  xy: 335, 310
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grand Mesa
   rotate: false
-  xy: 1259, 771
+  xy: 1259, 707
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grand MesaM
   rotate: false
-  xy: 1259, 771
+  xy: 1259, 707
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Highlands
   rotate: false
-  xy: 364, 44
+  xy: 2000, 1729
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IMT 1
   rotate: false
-  xy: 2000, 1747
+  xy: 375, 310
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IMT 2
   rotate: false
-  xy: 2000, 1711
+  xy: 1259, 671
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMT 2
   rotate: false
-  xy: 2000, 1711
+  xy: 1259, 671
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IMT 3
   rotate: false
-  xy: 1259, 735
+  xy: 1299, 707
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMT 3
   rotate: false
-  xy: 1259, 735
+  xy: 1299, 707
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IMT 4
   rotate: false
-  xy: 1115, 694
+  xy: 1299, 671
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMT 4
   rotate: false
-  xy: 1115, 694
+  xy: 1299, 671
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/IMT 5
   rotate: false
-  xy: 1252, 1527
+  xy: 2000, 1693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMT 5
   rotate: false
-  xy: 1252, 1527
+  xy: 2000, 1693
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Magma Ravine
   rotate: false
-  xy: 1252, 1491
+  xy: 407, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mangrove Forest
   rotate: false
-  xy: 1252, 1454
+  xy: 447, 367
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 6
   rotate: false
-  xy: 1252, 1454
+  xy: 447, 367
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa Desert
   rotate: false
-  xy: 1284, 1563
+  xy: 487, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mesa DesertHill
   rotate: false
-  xy: 1252, 1418
+  xy: 1252, 1559
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 375, 306
+  xy: 1252, 1515
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean+Rocky Waters
   rotate: false
-  xy: 1252, 1382
+  xy: 1252, 1479
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand
   rotate: false
-  xy: 1252, 1346
+  xy: 1252, 1443
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 5
   rotate: false
-  xy: 1252, 1346
+  xy: 1252, 1443
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand2
   rotate: false
-  xy: 1252, 1310
+  xy: 1252, 1407
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 1
   rotate: false
-  xy: 1252, 1310
+  xy: 1252, 1407
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 4
   rotate: false
-  xy: 1252, 1310
+  xy: 1252, 1407
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Quicksand3
   rotate: false
-  xy: 1252, 1274
+  xy: 1252, 1371
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 2
   rotate: false
-  xy: 1252, 1274
+  xy: 1252, 1371
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMF 3
   rotate: false
-  xy: 1252, 1274
+  xy: 1252, 1371
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rocky Waters
   rotate: false
-  xy: 1252, 1238
+  xy: 1252, 1335
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/UMT 1
   rotate: false
-  xy: 1252, 1202
+  xy: 1252, 1299
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Volcano
   rotate: false
-  xy: 1252, 1164
+  xy: 1252, 1261
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Land-Bottom
+  rotate: false
+  xy: 4, 13
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Land-BottomLeft
+  rotate: false
+  xy: 1244, 1595
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Land-BottomRight
+  rotate: false
+  xy: 335, 346
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Dragon Peak
   rotate: false
-  xy: 4, 17
+  xy: 791, 615
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands
   rotate: false
-  xy: 1244, 1599
+  xy: 1115, 743
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Highlands2
   rotate: false
-  xy: 335, 350
+  xy: 1007, 831
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM
   rotate: false
-  xy: 791, 602
+  xy: 76, 4
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HillM2
   rotate: false
-  xy: 1115, 730
+  xy: 148, 4
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Howling Winds
   rotate: false
-  xy: 1007, 827
+  xy: 220, 22
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mangrove Forest
   rotate: false
-  xy: 1187, 739
+  xy: 292, 22
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mesa Desert
   rotate: false
-  xy: 76, 4
+  xy: 1187, 743
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mesa Desert-old
+  rotate: false
+  xy: 364, 13
   size: 64, 69
   orig: 64, 69
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 148, 17
+  xy: 1259, 743
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Rocky Waters
   rotate: false
-  xy: 220, 22
+  xy: 1115, 675
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Volcano
   rotate: false
-  xy: 292, 26
+  xy: 1187, 679
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
