@@ -206,7 +206,7 @@
 	  
 		"startBias": ["Mountain"],
 		"uniqueName": "Mining Riches",
-		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Copper]",
+		"uniques": ["[+2 Gold, +2 Production] from every [Quarry]", "[+2 Production] from every [Silver]",
 			   "[+1 Gold] from every [Mine] <during a Golden Age>"],
 
 		"cities": ["Yurigrad", "Krasnov", "Zoryagrad", "Varkesh", "Dravinsk", "Orlovsk", "Belovar", "Karsograd", "Novy Krest", "Morvinsk", "Drazhny", "Veligrad", "Severosk", "Radekov", "Chernovik", "Ostrovar", "Zhelezgrad", "Mirsk", "Tarnov", "Volnigrad",
