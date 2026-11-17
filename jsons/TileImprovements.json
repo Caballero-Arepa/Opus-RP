@@ -485,10 +485,9 @@
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
-		//"techRequired": "The Wheel",
+		"techRequired": "The Wheel",
 		"uniques": [
 			"Can be built outside your borders", "Costs [1] [Gold] per turn",
-			"Unavailable <before discovering [The Wheel]> <for [non-[David]] Civilizations>"
 		],
 		"shortcutKey": "R",
         "civilopediaText": [
