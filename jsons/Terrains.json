@@ -29,6 +29,19 @@
 					],
 	},
 	{
+		"name": "Shallow Waters",
+		"type": "Water",
+		"food": 2,
+		"movementCost": 2,
+		"RGB": [125, 199, 192],
+        "uniques": [
+			"Coastal Water",
+            "Rough terrain",
+			"Doesn't generate naturally",
+            "Every [15] tiles with this terrain will receive a major deposit of a strategic resource.",
+         	]
+	},
+	{
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
@@ -308,17 +321,6 @@
             {"text": "Civil Service", "link":"Technology/Civil Service"},
             {"text": "Fertilizer", "link":"Technology/Fertilizer"}
         ]
-	},
-	{
-		"name": "Shallow Waters",
-		"type": "TerrainFeature",
-		"movementCost": 3,
-		"RGB": [125, 199, 192],
-		"occursOn": ["Coast"]
-                "uniques": [
-            "Rough terrain","Doesn't generate naturally",
-            "Every [15] tiles with this terrain will receive a major deposit of a strategic resource.",
-         	]
 	},
 	{
 		"name": "Mangrove Forest",
