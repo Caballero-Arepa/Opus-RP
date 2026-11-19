@@ -55,7 +55,9 @@
             "May enter foreign tiles without open borders",
             "Can instantly construct a [Land Takeover] improvement <in [Unowned] tiles> <in tiles adjacent to [your] tiles> <for [10] movement>",
             "Can instantly construct a [Water Control] improvement <for [10] movement> <in [non-[your]] tiles>",
-            "Remove [Takeover] improvements from this tile <upon ending a turn in a [Takeover] tile>"
+            "Remove [Takeover] improvements from this tile <upon ending a turn in a [Takeover] tile>",
+            "Reveal up to [all] [Howling Winds] within a [15] tile radius <for [Belias] Civilizations> <for [1] movement>",
+            "Reveal up to [all] [Lakes] within a [8] tile radius <for [Belias] Civilizations> <for [1] movement>"
                 ]
     },
     {
