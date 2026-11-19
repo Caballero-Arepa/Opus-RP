@@ -23,22 +23,25 @@
 		"cost": 0,
 		"uniques": [
 			"No Sight",
-			"Unbuildable", "Cannot be purchased"],
+			"Unbuildable", "Cannot be purchased",
+			"Turn this tile into a [Shallow Waters] tile <for [Gandalf] Civilizations> <in [{Featureless} {Plains}] tiles> <for [1] movement> <hidden from users>",
+			"Turn this tile into a [Hill] tile <for [Gandalf] Civilizations> <in [{Featureless} {Plains}] tiles> <by consuming this unit> <hidden from users>",
+			"Turn this tile into a [Plains] tile <for [Gandalf] Civilizations> <in [{Featureless} {Coast}] tiles> <with [2] to [6] neighboring [Land] tiles> <by consuming this unit> <hidden from users>",
+		],
 		"hurryCostModifier": 20
 	},
-	/*
 	{
 		"name": "Craftsman",
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 70,
-		"requiredTech": "The Wheel",
-		"uniques": ["Gain [3] [Production] <in this city> <by consuming this unit>",
-			"Can be purchased for [3] [Production] [in all cities]",
-			"Requires at least [2] population", "Unbuildable", "Shown while unbuildable"],
+		"movement": 4,
+		"cost": 0,
+		"uniques": [
+			"No Sight",
+			"Unbuildable", "Cannot be purchased",
+			"Will not be displayed in Civilopedia",
+		],
 		"hurryCostModifier": 20
 	},
-	*/
 	{
 		"name": "Scribe",
 		"unitType": "Civilian",
@@ -46,7 +49,8 @@
 		"cost": 70,
 		"requiredTech": "The Wheel",
 		"uniques": [
-			"Requires at least [2] population", "Unbuildable", "Cannot be purchased", "Shown while unbuildable"],
+			"Requires at least [2] population", "Unbuildable", "Cannot be purchased", "Shown while unbuildable"
+			],
 		"hurryCostModifier": 20
 	},
 	{
