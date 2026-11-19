@@ -183,8 +183,11 @@
 	  
 		"startBias": ["Jungle"],
 		"uniqueName": "The Long Count",
-		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
+		"uniques": [
+			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+			"[+1 Faith] [in capital] <when number of [turns] is less than [24]> <hidden from users>",
+		],
 
 		"cities": ["The Best New City", "The Second Best City", "Okayish City", "Not The Best City", "Why Did We Build This City", "We Settled For This Settlement", "If We Must We Will Live Here", "The Third Best City", "Wolf Kennel", "Vacation Castle", "This City Needs No Name", "Dog Biscuit Storage", "We Miss The South", "Nowhere Else To Live"]
   },
