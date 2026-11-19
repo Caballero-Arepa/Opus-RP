@@ -7,5 +7,6 @@
 
         "Mesa Desert+Hill": ["Mesa DesertHill"]
         "Mountain+Volcano": ["Volcano"],
+		"Shallow Waters":	["Coast"],
     }
 }
