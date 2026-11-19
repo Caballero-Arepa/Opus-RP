@@ -232,4 +232,11 @@
 		"cost": 0,
 		"uniques": ["Must be next to [Water]","[+5]% growth [in this city]","Automatically built in all cities where it is buildable","Destroyed when the city is captured","Unsellable","Will not be displayed in Civilopedia"]
 	},
+	//temp
+	{
+		"name": "Gandalf's Terraforming",
+    	"uniqueTo": "Gandalf",
+		"cost": 0,
+		"uniques": ["Destroyed when the city is captured","Limited to [1] per Civilization","Free [Landlord] appears","Unsellable","Will not be displayed in Civilopedia"]
+	},
 ]
