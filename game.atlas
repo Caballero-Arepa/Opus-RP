@@ -626,6 +626,13 @@ TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Grassland-Bottom
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Lakes-Bottom
+  rotate: false
+  xy: 4, 4
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Plains-Bottom
   rotate: false
   xy: 4, 4
@@ -647,6 +654,13 @@ TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Grassland-BottomLeft
   orig: 64, 60
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Lakes-BottomLeft
+  rotate: false
+  xy: 1244, 1586
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Plains-BottomLeft
   rotate: false
   xy: 1244, 1586
@@ -662,6 +676,13 @@ TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Desert-BottomRight
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Grassland-BottomRight
+  rotate: false
+  xy: 791, 602
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Edges/Cliff-Mesa Desert-Lakes-BottomRight
   rotate: false
   xy: 791, 602
   size: 64, 60
