@@ -562,4 +562,50 @@
 		"promotions": ["Evasion"],
 		"attackSound": "bombing"
 	}
+	//Really
+	{
+		"name": "Eggrobo",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Really",
+		"replaces": "Paratrooper",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
+	},
+	{
+		"name": "Super Badnik",
+		"unitType": "Armored",
+		"uniqueTo": "Really",
+		"replaces": "Giant Death Robot",
+		"movement": 5,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Atomic Destroyer",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "Really",
+		"replaces": "Atomic Bomb",
+		"movement": 1,
+		"strength": 150,
+		"rangedStrength": 150,
+		"range": 10,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [2]"],
+		"attackSound": "nuke"
+		// Plane rather than a missile - can be based in city or Carrier only.
+		// Can be intercepted, but must die for it not to take effect.
+	},
 ]
