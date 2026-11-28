@@ -236,7 +236,7 @@
 		"leaderName": "Doctor Eggman",
 	  	"style": "Arepino",
 		"outerColor": [1, 1, 1],
-		"innerColor": [109, 14, 4],
+		"innerColor": [255, 32, 0],
 
 		"startBias": ["Plains","Coast"],
 	    "uniqueName": "Robot Army",
